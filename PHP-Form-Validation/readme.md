@@ -6,7 +6,7 @@
 
 **Note:** index.php  has a typical example ,  if anyone decides to use this , please double check the spelling on error messages ;-)
 
-@author Andre Soares  andsoa77@gmail.com
+@author Mahmud Ferzeli  mahmudfrzli@gmail.com
 
 **License:**
 
